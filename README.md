@@ -5,3 +5,8 @@ The Result Screen on iPhone 6S
 
 ## Product List 
 
+![alt text](https://github.com/RamdhanChoudhary/Product-Hunt-News-Feed-Demo/blob/master/Product%20Hunt%20Demo/Screen%20Shots/IMG_8530.PNG)
+
+## Product Details 
+
+![alt text](https://github.com/RamdhanChoudhary/Product-Hunt-News-Feed-Demo/blob/master/Product%20Hunt%20Demo/Screen%20Shots/IMG_8531.PNG)
